@@ -1,0 +1,22 @@
+.root {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 2px;
+  font-weight: bolder;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.default:hover {
+  background: var(--hover);
+}
+
+.solid {
+  background: var(--proton-purple);
+  color: var(--white);
+}
+
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

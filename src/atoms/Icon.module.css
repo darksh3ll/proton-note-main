@@ -1,0 +1,19 @@
+.root {
+  display: inline-block;
+}
+
+.small {
+  font-size: 16px;
+}
+
+.medium {
+  font-size: 24px;
+}
+
+.large {
+  font-size: 32px;
+}
+
+.purple {
+  color: var(--proton-purple);
+}

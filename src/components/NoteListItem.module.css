@@ -1,0 +1,8 @@
+.listItem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.listItemIcon {
+  margin-left: auto;
+}
